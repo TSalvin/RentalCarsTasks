@@ -1,0 +1,19 @@
+{
+  "name": "rentalcarsapi",
+  "version": "1.0.0",
+  "description": "Exercises completed as part of the Rentalcars.com recruitment procedure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSalvin/RentalCarsTasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TSalvin/RentalCarsTasks/issues"
+  },
+  "homepage": "https://github.com/TSalvin/RentalCarsTasks#readme"
+}
